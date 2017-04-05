@@ -1,2 +1,2 @@
 # assignment
-assignment management system for teacher
+assignment management system for one subject
